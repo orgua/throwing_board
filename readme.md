@@ -61,10 +61,65 @@ This documentation will first show you how to build one for yourself. This inclu
 ![finished board with coating](./pictures/DSC00086.jpg)
 
 
-## how to use it
+## How to use it
+
+### Games to become accustomed
+
+- Slow motion stage diving: choose a flyer of your group and lift him up. Wait for the movement of the flyer. Keep it controlled. No spontaneous rolling or tipping over. Base is stationary while lifting with long arms. If free as a base go where the flyer if floating to
+- Support like concrete: flyer makes his own movements and only gets offered static support like a stair or other things to lean, knee, lie on. Keep it ultra-slow and controlled
 
 
+### Basics for the Base
+
+- Important side notes
+   - bases should keep calm and only exchange short precise commands. Distraction is dangerous!
+   - At least two bases should know what they are doing
+   - Try to balance strength of bases evenly
+   - **If one base gets tired it should be replaced or simply do less** (counterbalance that on the opposite side)
+- Lift board and try turning points without losing synchronization
+   - Standing straight with arms down
+   - Squat a bit, board should be right above knees, arms still straight
+   - Stand up again, move board to top with straight arms. Height-Orientation is on smallest base 
+- Exercise tempo without a flyer
+   - One person leads the bases by giving commands. Start with "and" or "breath in"
+   - Breath in without lifting, just open chest
+   - **Going down, more by pulling less** (better understandable with flyers weight), **charge muscles**, very slow, even slow down more…
+   - Reach lowest point, knee-high
+   - Accelerate on the way up and **keep the last kick for the very end**
+   - wait for turning point of flyer and prepare to go down, ready to catch the flyer softly.
+- Static positions with flyer on board
+   - Begin with getting flyer up, flyer should take a step directly to the middle to make it easy for the bases and use shoulders of bases for stability
+   - Flyers stands on feet, elbow-wide open. Board center should be right before the heels (~3/4 of the foot) 
+   - Bases hold board with straight arms and straight back, squatted, right above the knee
+   - Bases with straight arms down, standing straight
+   - Board shoulder high. Reposition hands. 
+   - Long arms up. 
+   - Step by step down
+- Learn to move with flyer on board
+   - Practice cycling through static positions and do this movement while board in high position
+   - Var1: rotate board by doing one step with each foot. Discuss the direction first! The foot that is "behind" should do the first step, so you don't run into your neighbour-base
+   - Var2: lateral movement. Discuss direction first! This is harder, but most likely essential later to catch rogue flyers
+   - Var3: try combining Var1 and Var2 more freely and continuous. Flyer has to react, can even rotate by itself
 
 
+### Dynamic movements aka. Throwing
 
+- Some more important side notes
+   - If flyer falls during landing one base can use hands to save flyer. Normally the base that the flyer is falling to. But be clear who! Two hands are enough. So in between two bases use one hand each.
+   - Use short and precise commands. No chatting in between
+   - flyer defines start and tempo, bases have to adapt 
+   - Bases have to catch flyer softly, but flyer can also soften the landing by bending knees (squatting)
+- Tempos
+   - Tempo is even slower than banquine
+   - Bases present whole process to flyer at least two times. Flyer tries to balance, but shouldn't need though
+   - Flyer then shows its tempo. Keep it slow. Normally from this point on the people have to be calmed constantly
+      - Var1 standing with arms in front. Breath by slowly, open chest, lifting arms slightly. Go down slowly, stay and jump up with arms rising. Push high. 
+      - Var2 crouch, with hands touching ground. Breath, go down, jump up and go back on all four limbs
+- Progression of throws
+   - Note: Keep it synchronized, slow and throw board up till the top, walk below flyer if needed. Normally bases do that on their own without teaching
+   - Do two to four throws with each flyer then replace flyer if more are available
+   - First try basic throws
+   - next could be tucked position at highest point
+   - Rotation of 90 or 180 deg
+   - Try salto with a lunge, rotation is different than anything else. Usually flyers do not rotate enough
 
