@@ -1,14 +1,14 @@
 # (swedish) Throwing Board
 
-This documentation will first show you how to build one for yourself. This includes some pictures and technical drawings. At the end it will give you a tutorial for basic usage. There is no video for the first steps yet, but we took some from advanced tricks:
+Credit goes out to Ben for introducing me to this awesome device. This documentation will first show you how to build a throwing board for yourself. This includes some pictures, technical drawings and even possible improvements. At the end it will give you a tutorial for basic usage. There is no video for the first steps yet, but we took some from advanced tricks:
 - [normal salto / somersault](https://youtu.be/JZCmLkykNo0)
 - [double salto](https://youtu.be/8LZQk9T78h4)
 
 
 ## Why
 
-- its a fun and easy thing to do
-- easier for the bases than banquine
+- its a fun and easy thing to do, also quite safe if bases know what they are doing
+- easier for and on the bases than banquine
 - more spectacular than trampoline
 
 
@@ -16,8 +16,8 @@ This documentation will first show you how to build one for yourself. This inclu
 
 - multiplex wood gives best stability and lowest weight
 - it should fit in a normal car, so the outer diameter is limited to about 100 cm (this limitation depends on your preferences)
-- the count of holes for the hands are best to be 12, so you can use the board with 2, 3, 4, 6 bases evenly
-- you need at least a jigsaw, a hole-saw (powerdrill) and a lot of sandpaper (an additional mill / router makes your life so much easier)
+- the count of holes for the hands for this board-size are best to be 12, so you can use the board with 2, 3, 4, 6 bases evenly
+- you need at least a jigsaw, a hole-saw (power-drill) and a lot of sandpaper (an additional mill / router makes your life so much easier)
 - hand holes should be about 45 mm deep and the width of 140 mm should be enough for even the biggest hands
 
 ![construction](./throwing_board.png)
@@ -25,23 +25,27 @@ This documentation will first show you how to build one for yourself. This inclu
 
 ## My Build-log
 
-- i chose birch multiplex with an area of 1 qm, 15 mm thickness and about 9 equal layers, the glue is water resistant and the board is stiff but able to flex very much before it breaks (i was able to test this with a long piece of trim at the home improvement store)
-   - beech would be heavier but not significantly more stable
+- i chose birch multiplex with an area of 1 m², 15 mm thickness and 9 equal layers (costs about 30 € in germany)
+   - the glue is water resistant and the board is stiff but able to flex very much before it breaks (i was able to test this with a long piece of trim at the home improvement store)
+   - be sure to get multiplex wood (even layers, as many as possible) instead of cheap plywood (sometimes only 3 layers with thick wood-core)
+   - beech would be heavier but not significantly more stable (but there is some expensive high quality multiplex available with 5 layers over 3 mm)
    - poplar would have the same weight but less stability
 - the rectangular piece weights about 9.5 kg 
    - I calculated that the round board weights 7.46 kg, with holes cut it goes down to 6.74 kg
-   - the real weight (after rounding the edges) came down to 6.7 kg
+   - the real weight (after rounding the edges) came down to 6.7 kg, this is about 10% of the flyers weight
 - i put a small screw in the middle of the board and attached a string to it to draw a circle at 865 mm and also 1000 mm diameter
 - i made markings 30 degree apart (on the inner circle) and made a second marking 100 mm to the right of the first markings (also on the inner circle) to guide the hole-saw
 - i used the power-drill / hole-saw to get started with the round edge-holes for the handles
 - after that i could use a ruler to connect the holes and then use the jigsaw to follow the line
-- the jigsaw is also used for cutting the outer circle
-- a router bit should be used to round the edges
-- sand paper can be used to smooth the handles, but the main surface should stay rough (!!!)
+- the jigsaw is also used for cutting the outer circle (it won't be perfectly round, but who cares)
+- a router bit should be used to round the edges (it is a million times faster then using sand paper, knife or carpenter's plane)
+- sand paper (60, 400, 1000) can be used to smooth the handles, but the main surface should stay rough (!!!) for better grip
+   - smooth handles allow a better hand-transition between low and high position
 - i marked the middle of the board on both sides with a permanent marker
-- i wanted to seal the surface but did not want to use any paint or varnish so i used olive oil
-   - at first there was an instant regret because it was slippery as frick (who would have thought), but after two days (and one more coating) it was perfect
-   - the surface is now a bit like rubber, good for standing bare foot on it
+- i wanted to seal the surface but did not want to use any paint or varnish so i used olive oil (had no linseed oil or special oil for kitchen tops from the home improvement store)
+   - at first there was an instant regret because it was slippery (who would have thought), but after two days (and one more coating) it was perfect
+   - the surface is now a bit like rubber, good for standing barefoot on it
+   - we used the board with shoes, socks and barefoot and it is good for all three but I prefer barefoot or shoes
    
    
 ![wood board](./pictures/DSC00053.jpg)
@@ -60,6 +64,21 @@ This documentation will first show you how to build one for yourself. This inclu
 
 ![finished board with coating](./pictures/DSC00086.jpg)
 
+
+## Possible Improvements and other lessons learned
+
+if you try one of these options i would be very happy to hear some feedback
+
+- the board could be a bit bigger, but not because it is easier for the flyer (that's absolutely fine) but for more room for the bases knees
+- the board could be thinner than 15 mm (test with a 90 kg flyer), but my source only had 12 mm with disproportional less layers and i wouldn't dare to use it 
+- for better grip for the flyer you could use some very fine sand (i have read that bird sand is ok) and mix it with paint or lacquer to get a rougher surface (like a boat deck)
+- the oil coating seems like a good compromise between grip (on the rough board) and smoothness (on the polished handles) to me 
+   - i have used an uncoated board before and it was not easy on the hands (close to blisters)  
+- better handles
+   - my first concern using the thin wood was that it is not easy on the hands, but it is quite good because there is enough grip-surface below for the fingers (the neck is about 45 mm wide)
+   - if you have the wood working tools you could make round handles with some extra wood glued to the neck of the handle
+   - the lazy option would be to wrap grip-tape (available for bikes) around it to make it more ergonomic
+- the board is a good sound emitter, it is quite loud even on a soft landing, so don't be to concerned for the flyer  
 
 ## How to use it
 
