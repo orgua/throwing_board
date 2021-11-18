@@ -84,7 +84,8 @@ if you try one of these options i would be very happy to hear some feedback
 
 ### Games to become accustomed
 
-- Slow motion stage diving: choose a flyer of your group and lift him up. Wait for the movement of the flyer. Keep it controlled. No spontaneous rolling or tipping over. Base is stationary while lifting with long arms. If free as a base go where the flyer if floating to
+- Note: play without throwing board 
+- Slow motion stage diving: choose a flyer of your group and lift him up with several bases. Wait for the movement of the flyer. Keep it controlled. No spontaneous rolling or tipping over. Base is stationary while lifting with long arms. If free (as a base) go to where the flyer is floating to
 - Support like concrete: flyer makes his own movements and only gets offered static support like a stair or other things to lean, knee, lie on. Keep it ultra-slow and controlled
 
 
@@ -98,11 +99,11 @@ if you try one of these options i would be very happy to hear some feedback
 - Lift board and try turning points without losing synchronization
    - Standing straight with arms down
    - Squat a bit, board should be right above knees, arms still straight
-   - Stand up again, move board to top with straight arms. Height-Orientation is on smallest base 
+   - Stand up again, move board to top (again straight arms). Height-Orientation is focussed on smallest base 
 - Exercise tempo without a flyer
    - One person leads the bases by giving commands. Start with "and" or "breath in"
    - Breath in without lifting, just open chest
-   - **Going down, more by pulling less** (better understandable with flyers weight), **charge muscles**, very slow, even slow down more…
+   - **Going down, more by pulling less** (weight of flyer), **charge muscles**, very slow, even slow down more…
    - Reach lowest point, knee-high
    - Accelerate on the way up and **keep the last kick for the very end**
    - wait for turning point of flyer and prepare to go down, ready to catch the flyer softly.
